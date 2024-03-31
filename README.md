@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with-Karate-orange" alt="Built with Karate">
-  <img src="https://img.shields.io/github/license/yourusername/repo-name" alt="License">
 </p>
 
 <p align="center">
