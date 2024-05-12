@@ -1,0 +1,4 @@
+{
+    "getAllBookings": "/booking",
+    "getBooking": "/booking/{id}"
+}
